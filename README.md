@@ -1,2 +1,2 @@
 # CanITrust
-Service, which can verify email files 
+This application allows you to check e-mails and display analytical information.
